@@ -56,11 +56,4 @@ libMemoryManager.a — the static library
 
 MemoryManager.o — the object file
 
-To clean build files:
-
-bash
-Copy
-Edit
-make clean
-
 Author: Jaylom Pairol
