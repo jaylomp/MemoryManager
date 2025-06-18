@@ -33,17 +33,11 @@ STL containers (vector, unordered_map)
 Custom Makefile for compilation
 
 Project Structure
-bash
-Copy
-Edit
 ├── MemoryManager.h        # Interface and class definitions  
 ├── MemoryManager.cpp      # Allocation and deallocation logic  
-├── Makefile              # Builds static library libMemoryManager.a  
-How to Build
-bash
-Copy
-Edit
+├── Makefile              # Builds static library libMemoryManager.a
 
+How to Build:
 git clone https://github.com/jaylomp/MemoryManager.git
 
 cd MemoryManager
