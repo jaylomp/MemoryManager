@@ -43,9 +43,13 @@ How to Build
 bash
 Copy
 Edit
+
 git clone https://github.com/jaylomp/MemoryManager.git
+
 cd MemoryManager
+
 make
+
 This produces:
 
 libMemoryManager.a — the static library
