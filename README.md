@@ -43,7 +43,7 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/yourusername/memory-manager.git
+https://github.com/jaylomp/MemoryManager.git
 cd memory-manager
 
 # Build the static library
